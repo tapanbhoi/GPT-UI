@@ -1,0 +1,27 @@
+[
+  {
+    "username": "validUser",
+    "password": "validPassword",
+    "expected_success": true
+  },
+  {
+    "username": "invalidUser",
+    "password": "validPassword",
+    "expected_success": false
+  },
+  {
+    "username": "validUser",
+    "password": "invalidPassword",
+    "expected_success": false
+  },
+  {
+    "username": "",
+    "password": "validPassword",
+    "expected_success": false
+  },
+  {
+    "username": "validUser",
+    "password": "",
+    "expected_success": false
+  }
+]

@@ -1,0 +1,8 @@
+Run Report for Python Scripts
+Date: Sat Mar  2 10:21:42 IST 2024
+Directory: /Users/tapan/PycharmProjects/GPT-UI/Test/shell
+
+Test Case,Status,Time Taken (seconds)
+test1,Passed,
+test2,Passed,
+Run complete.
